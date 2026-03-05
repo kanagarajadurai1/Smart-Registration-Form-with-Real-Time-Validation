@@ -51,6 +51,4 @@ smart-registration-form/
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Download or clone the repository
+Link : []
